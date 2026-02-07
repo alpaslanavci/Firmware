@@ -1,4 +1,4 @@
-# firmwareApp
+# Firmware
 
 Firmware application and bootloader for an STM32L0x3 target.
 
